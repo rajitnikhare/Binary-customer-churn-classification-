@@ -1,4 +1,4 @@
-# Binary-customer-churn-classification-
+# Binary Customer Churn Classification
 Classify whether a customer would churn or not using Logistic regression techniques on pyspark and python
 
 Data being used for classification is customer_churn.csv which has the following schema:
